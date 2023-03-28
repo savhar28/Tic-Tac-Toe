@@ -121,5 +121,8 @@ nav ul{
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);
     }
-  
+    .imgbox img{
+        width: 0;
+        transition: width 1s ease-in-out;
+    }
 }
