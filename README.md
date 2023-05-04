@@ -21,9 +21,9 @@ This is a Tic Tac Toe game created using HTML, CSS, and JavaScript. The game fea
 ## Built With💻
 The game was built using the following technologies:
 
-- HTML: The markup language used to structure the game board and interface.
-- CSS: The styling language used to customize the visual appearance of the game.
-- JavaScript: The programming language used to implement the game logic and interactivity.
+- *HTML:* The markup language used to structure the game board and interface.
+- *CSS:* The styling language used to customize the visual appearance of the game.
+- *JavaScript:* The programming language used to implement the game logic and interactivity.
 
 ## 🔗Live Demo
 https://tic-tac-toe-freegameplay.netlify.app/
