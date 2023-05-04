@@ -18,7 +18,7 @@ This is a Tic Tac Toe game created using HTML, CSS, and JavaScript. The game fea
 - The first player to get three of their symbols in a row, column, or diagonal wins.
 - If all squares are filled and no player has won, the game is a tie.
 
-## Built With
+## Built With💻
 The game was built using the following technologies:
 
 - HTML: The markup language used to structure the game board and interface.
